@@ -1,0 +1,5 @@
+interface:
+  display_name: "Resumir curso PUC"
+  short_description: "Compila cursos da PUC em cadernos e resumos"
+  default_prompt: "Use $resumir-curso-puc para percorrer esta disciplina, organizar o conteudo por semana e gerar um caderno e um resumo em Word."
+
